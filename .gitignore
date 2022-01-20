@@ -1,0 +1,10 @@
+.bsp
+.idea
+out
+target
+project/target
+project/project
+*.iml
+*.ipr
+*.iws
+
